@@ -1,0 +1,31 @@
+body {
+    background-image: url("CSS/chess1.jpg");
+}
+
+.carousel-expertise .carousel-item img {
+    height: 500px;
+}
+
+.carousel-expertise {
+	padding: 20px 0;
+}
+
+.carousel-expertise .carousel-caption {
+	color: black;
+}
+
+.carousel-expertise .carousel-indicators li {
+	background-color: black;
+}
+
+.hobbies .card {
+	min-height: 600px;
+}
+
+.hobbies .card img {
+	height: 400px;
+}
+
+#footer {
+    background-color: dark;
+}
